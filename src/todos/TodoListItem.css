@@ -1,0 +1,20 @@
+.todo-item {
+  border-radius: 10px;
+  padding: 2px 60px;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+}
+
+.remove-button {
+  border-radius: 5px;
+  background-color: red;
+  color: black;
+  font-weight: bold;
+}
+
+.completed-button {
+  border-radius: 5px;
+  background-color: green;
+  color: black;
+  font-weight: bold;
+}
