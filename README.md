@@ -1,4 +1,6 @@
-* This is a simple todo list, using react-redux for practicing puposes.
+# React TODO list
+
+This is a simple todo list, using react-redux for practicing puposes.
 
 # Getting Started with Create React App
 
